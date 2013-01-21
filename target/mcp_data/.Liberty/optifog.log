@@ -1,0 +1,76 @@
+
+OptiFine_1.4.6_HD_U_B4
+Sun Jan 20 21:08:27 CET 2013
+OS: Windows 7 (amd64) version 6.1
+Java: 1.7.0_11, Oracle Corporation
+VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+LWJGL: 2.4.2
+OpenGL: GeForce GT 630/PCIe/SSE2 version 4.3.0, NVIDIA Corporation
+OpenGL Version: 4.0
+(Reflector) Class not present: ModLoader
+(Reflector) Class not present: LightCache
+(Reflector) Class not present: BlockCoord
+(Reflector) Class not present: net.minecraftforge.common.MinecraftForge
+(Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
+(Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+(Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
+(Reflector) Class not present: cpw.mods.fml.common.FMLCommonHandler
+(Reflector) Class not present: cpw.mods.fml.client.FMLClientHandler
+(Reflector) Class not present: FMLRenderAccessLibrary
+(Reflector) Class not present: net.minecraftforge.client.IItemRenderer$ItemRenderType
+(Reflector) Method not pesent: azr.addEffect
+(Reflector) Method not pesent: aaq.getSkyRenderer
+(Reflector) Method not pesent: aaq.getCloudRenderer
+(Reflector) Class not present: net.minecraftforge.client.IRenderHandler
+(Reflector) Class not present: net.minecraftforge.common.DimensionManager
+(Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
+(Reflector) Class not present: net.minecraftforge.event.EventBus
+(Reflector) Class not present: net.minecraftforge.event.world.ChunkWatchEvent$UnWatch
+(Reflector) Class not present: net.minecraftforge.client.IItemRenderer
+(Reflector) Method not pesent: amq.isLadder
+(Reflector) Method not pesent: amq.isBed
+(Reflector) Method not pesent: amq.getBedDirection
+(Reflector) Method not pesent: amq.isBedFoot
+(Reflector) Method not pesent: amq.canRenderInPass
+(Reflector) Method not pesent: amq.getTextureFile
+(Reflector) Field not present: lq.captureDrops
+(Reflector) Field not present: lq.capturedDrops
+(Reflector) Method not pesent: up.getTextureFile
+(Reflector) Method not pesent: up.getRenderPasses
+(Reflector) Method not pesent: up.getIconIndex
+(Reflector) Method not pesent: lm.isCurativeItem
+TextureFX registered: bdj@558e3c98, texId: 7, index: 237
+TextureFX registered: bdm@3ee53dae, texId: 7, index: 205
+TextureFX registered: bdk@3c348ac4, texId: 7, index: 14
+TextureFX registered: bdf@37359a67, texId: 8, index: 54
+TextureFX registered: bde@79c23a4e, texId: 8, index: 70
+TextureFX registered: bdl@3e821555, texId: 7, index: 206
+TextureFX registered: bdi@4e469f82, texId: 7, index: 238
+TextureFX registered: bdh@7e9237f3, texId: 7, index: 31
+TextureFX registered: bdh@31977370, texId: 7, index: 47
+TextureFX removed: bdj@558e3c98, texId: 7, index: 237
+TextureFX registered: TextureHDLavaFX@2dea5622, texId: 7, index: 237
+TextureFX removed: bdm@3ee53dae, texId: 7, index: 205
+TextureFX registered: TextureHDWaterFX@73bce9ba, texId: 7, index: 205
+TextureFX removed: bdk@3c348ac4, texId: 7, index: 14
+TextureFX registered: TextureHDPortalFX@7794edb2, texId: 7, index: 14
+TextureFX removed: bdl@3e821555, texId: 7, index: 206
+TextureFX registered: TextureHDWaterFlowFX@52817e73, texId: 7, index: 206
+TextureFX removed: bdi@4e469f82, texId: 7, index: 238
+TextureFX registered: TextureHDLavaFlowFX@3394da56, texId: 7, index: 238
+TextureFX removed: bdh@7e9237f3, texId: 7, index: 31
+TextureFX registered: TextureHDFlamesFX@718a5e8e, texId: 7, index: 31
+TextureFX removed: bdh@31977370, texId: 7, index: 47
+TextureFX registered: TextureHDFlamesFX@3345f6de, texId: 7, index: 47
+TextureFX removed: bdf@37359a67, texId: 8, index: 54
+TextureFX registered: TextureHDCompassFX@3f4ff65b, texId: 8, index: 54
+TextureFX removed: bde@79c23a4e, texId: 8, index: 70
+TextureFX registered: TextureHDWatchFX@149dfe86, texId: 8, index: 70
+TextureFX registered: TextureHDCustomFX@67741b54, texId: 8, index: 46
+TextureFX registered: TextureHDCustomFX@1c99d1df, texId: 8, index: 56
+TextureFX registered: TextureHDCustomFX@2a610a39, texId: 8, index: 141
+TextureFX registered: TextureHDCustomFX@412205c0, texId: 8, index: 155
+TextureFX registered: TextureHDCustomFX@c3cec2e, texId: 8, index: 207
+Loading custom colors: /misc/grasscolor.png
+Loading custom colors: /misc/foliagecolor.png
+Loading custom colors: /misc/watercolorX.png

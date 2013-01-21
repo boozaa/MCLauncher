@@ -4,17 +4,19 @@
 	<groupId>com.kokakiwi.mclauncher</groupId>
 	<artifactId>mclauncher</artifactId>
 	<version>1.0.1</version>
-	<name>MCLauncher</name>
-	<description>Minecraft Custom Launcher</description>
+	<name>LibertyLauncher</name>
+	<description>Minecraft Custom Liberty Launcher</description>
 	<dependencies>
 		<dependency>
 			<groupId>org.yaml</groupId>
 			<artifactId>snakeyaml</artifactId>
 			<version>1.9</version>
+            <type>jar</type>
+            <scope>compile</scope>			
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>mclauncher</finalName>
+		<finalName>LibertyLauncher</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
@@ -55,22 +57,6 @@
 				<configuration>
 					<source>1.5</source>
 					<target>1.5</target>
-				</configuration>
-			</plugin>
-			<plugin>
-				<groupId>com.kokakiwi.mclauncher.maven</groupId>
-				<artifactId>mclauncher-maven-plugin</artifactId>
-				<version>1.0.0</version>
-				<executions>
-					<execution>
-						<phase>generate-sources</phase>
-						<goals>
-							<goal>compile</goal>
-						</goals>
-					</execution>
-				</executions>
-				<configuration>
-					
 				</configuration>
 			</plugin>
 		</plugins>
